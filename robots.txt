@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://semidonunumo.pages.dev/sitemap.xml
